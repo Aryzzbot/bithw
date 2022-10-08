@@ -27,7 +27,7 @@ global.botname = 'RyzzBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapu
 global.footer = 'JANSEN BOT' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6283837166690','6285237517877']
+global.owner = ['6283837166690','6289636350759']
 global.premium = ['6285776191421']
 global.packname = 'JANSEN BOT'
 global.ownerr = ['JANSEN BOT']
